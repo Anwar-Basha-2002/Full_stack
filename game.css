@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+.out-box{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    display: flex;
+    justify-content:space-around
+}
+.box1 div{
+    border: 2px solid black;
+    height: 125px;
+    width: 125px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.box2 div{
+    border: 2px solid black;
+    height: 125px;
+    width: 125px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.yellow{
+    background-color: rgb(248, 219, 127)
+}
+.red{
+    background-color: rgb(223, 113, 93)
+}
+.blue{
+    background-color: rgb(98, 94, 236)
+}
+.green{
+    background-color: rgb(144, 202, 140)
+}
+.flash{
+    background-color:white ;
+}
